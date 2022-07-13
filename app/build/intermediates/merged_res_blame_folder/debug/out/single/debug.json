@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "C:\\Users\\G\\.gradle\\daemon\\7.3.3\\musicplayer.app-merged_res-26:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\G\\.gradle\\daemon\\7.3.3\\musicplayer.app-main-28:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\G\\.gradle\\daemon\\7.3.3\\musicplayer.app-merged_res-26:\\drawable-v24_image.jpg.flat",
+        "source": "C:\\Users\\G\\.gradle\\daemon\\7.3.3\\musicplayer.app-main-28:\\drawable-v24\\image.jpg"
+    },
+    {
+        "merged": "C:\\Users\\G\\.gradle\\daemon\\7.3.3\\musicplayer.app-merged_res-26:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\G\\.gradle\\daemon\\7.3.3\\musicplayer.app-main-28:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\G\\.gradle\\daemon\\7.3.3\\musicplayer.app-merged_res-26:\\drawable_ic_previous.xml.flat",
+        "source": "C:\\Users\\G\\.gradle\\daemon\\7.3.3\\musicplayer.app-main-28:\\drawable\\ic_previous.xml"
+    },
+    {
+        "merged": "C:\\Users\\G\\.gradle\\daemon\\7.3.3\\musicplayer.app-merged_res-26:\\drawable_ic_next.xml.flat",
+        "source": "C:\\Users\\G\\.gradle\\daemon\\7.3.3\\musicplayer.app-main-28:\\drawable\\ic_next.xml"
+    },
+    {
+        "merged": "C:\\Users\\G\\.gradle\\daemon\\7.3.3\\musicplayer.app-merged_res-26:\\drawable_ic_baseline_play_circle_filled_24.xml.flat",
+        "source": "C:\\Users\\G\\.gradle\\daemon\\7.3.3\\musicplayer.app-main-28:\\drawable\\ic_baseline_play_circle_filled_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\G\\.gradle\\daemon\\7.3.3\\musicplayer.app-merged_res-26:\\drawable_list_bg.xml.flat",
+        "source": "C:\\Users\\G\\.gradle\\daemon\\7.3.3\\musicplayer.app-main-28:\\drawable\\list_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\G\\.gradle\\daemon\\7.3.3\\musicplayer.app-merged_res-26:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\G\\.gradle\\daemon\\7.3.3\\musicplayer.app-main-28:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\G\\.gradle\\daemon\\7.3.3\\musicplayer.app-merged_res-26:\\drawable_ic_rewind.xml.flat",
+        "source": "C:\\Users\\G\\.gradle\\daemon\\7.3.3\\musicplayer.app-main-28:\\drawable\\ic_rewind.xml"
+    },
+    {
+        "merged": "C:\\Users\\G\\.gradle\\daemon\\7.3.3\\musicplayer.app-merged_res-26:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\G\\.gradle\\daemon\\7.3.3\\musicplayer.app-main-28:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\G\\.gradle\\daemon\\7.3.3\\musicplayer.app-merged_res-26:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\G\\.gradle\\daemon\\7.3.3\\musicplayer.app-main-28:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\G\\.gradle\\daemon\\7.3.3\\musicplayer.app-merged_res-26:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\G\\.gradle\\daemon\\7.3.3\\musicplayer.app-main-28:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\G\\.gradle\\daemon\\7.3.3\\musicplayer.app-merged_res-26:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\G\\.gradle\\daemon\\7.3.3\\musicplayer.app-main-28:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "musicplayer.app-merged_res-26:/layout_list_items.xml.flat",
+        "source": "musicplayer.app-main-28:/layout/list_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\G\\.gradle\\daemon\\7.3.3\\musicplayer.app-merged_res-26:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\G\\.gradle\\daemon\\7.3.3\\musicplayer.app-main-28:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\G\\.gradle\\daemon\\7.3.3\\musicplayer.app-merged_res-26:\\layout_list_items.xml.flat",
+        "source": "C:\\Users\\G\\.gradle\\daemon\\7.3.3\\musicplayer.app-main-28:\\layout\\list_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\G\\.gradle\\daemon\\7.3.3\\musicplayer.app-merged_res-26:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\G\\.gradle\\daemon\\7.3.3\\musicplayer.app-main-28:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\G\\.gradle\\daemon\\7.3.3\\musicplayer.app-merged_res-26:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\G\\.gradle\\daemon\\7.3.3\\musicplayer.app-main-28:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\G\\.gradle\\daemon\\7.3.3\\musicplayer.app-merged_res-26:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\G\\.gradle\\daemon\\7.3.3\\musicplayer.app-main-28:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\G\\.gradle\\daemon\\7.3.3\\musicplayer.app-merged_res-26:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\G\\.gradle\\daemon\\7.3.3\\musicplayer.app-main-28:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\G\\.gradle\\daemon\\7.3.3\\musicplayer.app-merged_res-26:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\G\\.gradle\\daemon\\7.3.3\\musicplayer.app-main-28:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\G\\.gradle\\daemon\\7.3.3\\musicplayer.app-merged_res-26:\\drawable_ic_forward.xml.flat",
+        "source": "C:\\Users\\G\\.gradle\\daemon\\7.3.3\\musicplayer.app-main-28:\\drawable\\ic_forward.xml"
+    },
+    {
+        "merged": "C:\\Users\\G\\.gradle\\daemon\\7.3.3\\musicplayer.app-merged_res-26:\\layout_activity_player.xml.flat",
+        "source": "C:\\Users\\G\\.gradle\\daemon\\7.3.3\\musicplayer.app-main-28:\\layout\\activity_player.xml"
+    },
+    {
+        "merged": "C:\\Users\\G\\.gradle\\daemon\\7.3.3\\musicplayer.app-merged_res-26:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\G\\.gradle\\daemon\\7.3.3\\musicplayer.app-main-28:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\G\\.gradle\\daemon\\7.3.3\\musicplayer.app-merged_res-26:\\drawable_ic_baseline_pause_circle_filled_24.xml.flat",
+        "source": "C:\\Users\\G\\.gradle\\daemon\\7.3.3\\musicplayer.app-main-28:\\drawable\\ic_baseline_pause_circle_filled_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\G\\.gradle\\daemon\\7.3.3\\musicplayer.app-merged_res-26:\\drawable_appbackground.jpg.flat",
+        "source": "C:\\Users\\G\\.gradle\\daemon\\7.3.3\\musicplayer.app-main-28:\\drawable\\appbackground.jpg"
+    },
+    {
+        "merged": "C:\\Users\\G\\.gradle\\daemon\\7.3.3\\musicplayer.app-merged_res-26:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\G\\.gradle\\daemon\\7.3.3\\musicplayer.app-main-28:\\mipmap-mdpi\\ic_launcher.webp"
+    }
+]
